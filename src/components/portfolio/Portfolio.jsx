@@ -6,6 +6,8 @@ import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
+import IMG7 from '../../assets/portfolio7.png'
+
 
 const data = [
   {
@@ -45,10 +47,10 @@ const data = [
   },
   {
     id: 6,
-    image: IMG6,
-    title: 'Travel Landing',
-    github: 'https://github.com/projectnum17/NY_travel',
-    demo: 'https://projectnum17.github.io/NY_travel/'
+    image: IMG7,
+    title: 'GPT-3',
+    github: 'https://github.com/projectnum17/GPT-3',
+    demo: 'https://projectnum17.github.io/GPT-3/'
   },
 ]
 
